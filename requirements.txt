@@ -1,0 +1,3 @@
+pyfiglet==0.8.post1
+pywifi==1.1.12
+termcolor==1.1.0
