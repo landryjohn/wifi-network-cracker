@@ -43,3 +43,4 @@ TODO :
 - [x] Write documentation with demo
 - [ ] Clean the wordlist according to most Wi-Fi settings (password length > 6)
 - [ ] Code Refractory 😪
+- [ ] Add other technichs to crack the password 
